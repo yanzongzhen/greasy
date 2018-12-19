@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         纪念币建设银行
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @version      1.0
+// @description  建设银行脚本
 // @author       yanzongzhen
 // @match        *://jinianbi.ccb.com/tran/WCCMainPlatV5*
 // @grant        none
